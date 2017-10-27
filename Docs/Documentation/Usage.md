@@ -21,7 +21,7 @@ There are several optional parameters:
 * **config**: The email configuration you want to test. *default: default*
 * **subject**: You can customize test email subject. *default: Test email* 
 * **message**: You can customize test email message. *default: This is a test email* 
-* **quite**: If set, it does not display email headers and message on success and it does not display exception message on failure.
+* **quiet**: If set, it does not display email headers and message on success and it does not display exception message on failure.
 * **verbose**: Not used at this moment.
 * **help**: If set, it displays the command help.
 
